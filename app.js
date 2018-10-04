@@ -5,5 +5,6 @@
 //git commit -m"place messsage here..all added file will be commited
 //add all tracked files one by one or use dot like 'git add .'to add all files ready for commit
 // only added files with "git add xxxx" will be commited with "git commit -m"xxx".
+//open new repository on www.github.com
 console.log("app.js");
 console.log("new change");
